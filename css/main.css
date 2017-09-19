@@ -6,15 +6,10 @@ li a {
   text-decoration: none;
   color: #d89fb0;
   border-bottom: 2px #d89fb0 solid;
-  padding-bottom: 5px;
 }
 
-#mid-top-line {
-  border-bottom: 2px #e2e2e2 solid;
-}
-
-#mid-bottom-line {
-  border-bottom: 2px #e2e2e2 solid;
+li a:hover {
+  color: #860927;
 }
 
 .mid-p {
@@ -22,7 +17,24 @@ li a {
   margin: auto;
 }
 
+h1 {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+.mid-section {
+  border-top: 2px #e2e2e2 solid;
+  border-bottom: 2px #e2e2e2 solid;
+}
+
 footer {
   border-top: 2px #e2e2e2 solid;
-  padding-top: 10px;
+}
+
+.btn {
+  color: #b64
+}
+
+.btn-ghost:hover {
+  border-color: #860927;
+  color: #860927;
 }
