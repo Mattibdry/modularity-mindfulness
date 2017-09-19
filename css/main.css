@@ -1,0 +1,28 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+}
+
+li a {
+  text-decoration: none;
+  color: #d89fb0;
+  border-bottom: 2px #d89fb0 solid;
+  padding-bottom: 5px;
+}
+
+#mid-top-line {
+  border-bottom: 2px #e2e2e2 solid;
+}
+
+#mid-bottom-line {
+  border-bottom: 2px #e2e2e2 solid;
+}
+
+.mid-p {
+  width: 60%;
+  margin: auto;
+}
+
+footer {
+  border-top: 2px #e2e2e2 solid;
+  padding-top: 10px;
+}
